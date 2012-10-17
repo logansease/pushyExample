@@ -11,7 +11,7 @@
 #define kPushyAppSecret  @"your secret key here"
 
 #define kCCKeySizeAES128	 16
-#define kPushyBaseUrl     @"http://www.pushyapi.com/"
+#define kPushyBaseUrl     @"http://pushyapi.com/"
 #define kSaveDevicePath          @"api/register_push"
 
 @interface PushyNotificationService : NSObject
